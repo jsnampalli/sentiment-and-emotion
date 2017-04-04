@@ -4,7 +4,7 @@ declared-services:
     label: alchemy_api
     plan: free
 applications:
-- name: sentiment-and-emotion
+- name: jaya-test-sentiment-and-emotion
   command: node app.js
   path: .
   memory: 1G
